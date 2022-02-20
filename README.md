@@ -1,5 +1,7 @@
 # Stop-Question-and-Frisk-Newyork
 Data Analysis of 2012 data by NYPD in Stop, Question and Frisk program.
+
+
 The New York City Police Department (NYPD) is the largest and one of the oldest municipal police departments in unite States,
 with approximately 36,000 officers and 19,000 civilians. It was established in 1845. The Stop-Question-and- Frisk (SQF) program 
 of New York City’s Police Department is a policing tool in which, officers stopped and questioned thousands of pedestrians annually
